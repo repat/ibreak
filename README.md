@@ -22,13 +22,6 @@ Browser, Social Networks, Messenger, VoIP, Audio/Podcasts, Video, Email, Notes, 
 * Make an easy form to submit apps
 * Star rating
 
-## Social Media
-* [facebook](https://facebook.com/ibreak "iBreak on facebook")
-* [twitter](https://twitter.com/ibreak "iBreak on twitter")
-
-## Contributers
-* [List of contributers](http://ibreak.info/credits.html "List of contributers")
-
 ## Contact
 #### repat
 * http://repat.de
