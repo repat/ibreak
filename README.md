@@ -38,8 +38,8 @@ Browser, Social Networks, Messenger, VoIP, Audio/Podcasts, Video, Email, Notes, 
 
 #### LumenTeun
 * http://lutic.org/
-* email: 
-* XMPP: 
+* email: teun@lutic.org
+* XMPP: teun@dukgo.com
 * Twitter: [@teunlutic](https://twitter.com/teunlutic "teunlutic on twitter")
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=repat&url=https://github.com/repat/ibreak&title=ibreak&language=&tags=github&category=software) 
