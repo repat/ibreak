@@ -1,6 +1,6 @@
 iBreak
 ======
-iBreak is a list of free and open source iOS apps inspired by [prism-break.org](https://prism-break.org "prism-break") and [droid-break.org](https://droid-break.info "prism-break"). We want to show you high quality alternatives to the big proprietary solutions. 
+**iBreak** is a list of free and open source iOS apps inspired by [prism-break.org](https://prism-break.org "prism-break") and [droid-break.info](https://droid-break.info "prism-break"). We want to show you high quality alternatives to the big proprietary solutions. 
 Please note that open source apps don't guarantee absolute freedom, e.g. an open source Twitter client still sends everything to Twitters' servers. 
 Anyway, we believe it's the best we can come up with and that in many cases it's the better choice. 
 If you think an app is missing, please write an [email](http://ibreak.info/support.html "support"), a [tweet](https://twitter.com/ibreak "@ibreak"), a [disqus](http://ibreak.info/#disqus "Disqus for ibreak.info") comment or fork the project on github and make a pull request. 
@@ -30,11 +30,13 @@ Browser, Social Networks, Messenger, VoIP, Audio/Podcasts, Video, Email, Notes, 
 * [List of contributers](http://ibreak.info/credits.html "List of contributers")
 
 ## Contact
+#### repat
 * http://repat.de
 * email: repat[at]repat[dot]de
 * XMPP: repat@jabber.ccc.de
 * Twitter: [@repat123](https://twitter.com/repat123 "repat123 on twitter")
 
+#### LumenTeun
 * http://lutic.org/
 * email: 
 * XMPP: 
