@@ -20,7 +20,11 @@ Browser, Social Networks, Messenger, VoIP, Audio/Podcasts, Video, Email, Notes, 
 ## Planned features
 * [Localize with jquery-18n](https://github.com/recurser/jquery-i18n "jquery-i18n")
 * Make an easy form to submit apps
-* Star rating
+* Star rating 
+
+## Social Media
+* [facebook](https://www.facebook.com/pages/ibreakinfo/1402984389948095 "ibreak on facebook")
+* [twitter](https://twitter.com/ibreakinfo "ibreak on twitter")
 
 ## Contact
 #### repat
