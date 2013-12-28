@@ -20,14 +20,11 @@ Browser, Social Networks, Messenger, VoIP, Audio/Podcasts, Video, Email, Notes, 
 ## Planned features
 * [Localize with jquery-18n](https://github.com/recurser/jquery-i18n "jquery-i18n")
 * Make an easy form to submit apps
-* Star rating
+* Star rating 
 
 ## Social Media
-* [facebook](https://facebook.com/ibreak "iBreak on facebook")
-* [twitter](https://twitter.com/ibreak "iBreak on twitter")
-
-## Contributers
-* [List of contributers](http://ibreak.info/credits.html "List of contributers")
+* [facebook](https://www.facebook.com/pages/ibreakinfo/1402984389948095 "ibreak on facebook")
+* [twitter](https://twitter.com/ibreakinfo "ibreak on twitter")
 
 ## Contact
 #### repat
@@ -38,8 +35,8 @@ Browser, Social Networks, Messenger, VoIP, Audio/Podcasts, Video, Email, Notes, 
 
 #### LumenTeun
 * http://lutic.org/
-* email: 
-* XMPP: 
+* email: teun@lutic.org
+* XMPP: teun@dukgo.com
 * Twitter: [@teunlutic](https://twitter.com/teunlutic "teunlutic on twitter")
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=repat&url=https://github.com/repat/ibreak&title=ibreak&language=&tags=github&category=software) 
