@@ -24,13 +24,10 @@
     <meta property="og:site_name" content="iBreak.info - A list of free high quality alternatives to proprietary iOS apps"/>
     <meta property="og:description" content="A list of free high quality alternatives to proprietary iOS apps." />
     
-    <!-- CSS -->
-    <link rel="stylesheet" type="text/css" href="style.css" />
-    
-    <!-- JavaScript -->
-    <!-- jQuery via CDN-->
-     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-    <!--[if lt IE 9]> <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script><![endif]-->
+
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
   </head>
   <body>
   <a id="top"></a>
@@ -62,7 +59,7 @@
       </nav>
     <strong>iBreak</strong> is a list of free and open source iOS apps inspired by <a href="http://prism-break.org">prism-break.org</a> and <a href="http://droid-break.info">droid-break.info</a>. We want to show you <em>high quality alternatives</em> to the big proprietary solutions.<br />
 Please note that open source apps don't guarantee absolute freedom, e.g., an open source Twitter client still sends everything to Twitters' servers.<br />
-Also, please be aware that iOS itself is closed source.<br/>
+Also, please be aware that iOS itself is closed source. You might be able to jailbreak and install the alternative AppStore <a href="http://cydia.saurik.com/">Cydia</a><br/>
 Anyway, we believe it's the best we can come up with and that in many cases it's the better choice.
 If you think an app is missing please write an email, a <a href="http://twitter.com/ibreakinfo">tweet</a> or fork the project on <a href="https://github.com/repat/ibreak">GitHub</a> and make a pull request.
       <p><p><strong>Please come back later, we're still building this website. Help us on <a href="https://github.com/repat/ibreak">github</a> or <a href="http://twitter.com/ibreakinfo">Twitter</a></strong></p></p>
@@ -80,10 +77,74 @@ If you think an app is missing please write an email, a <a href="http://twitter.
       </tr>
 
       <tr>
+        <!-- Browser:Proprietary -->
+        <td class="proprietary">
+          <ul class="proprietary">
+            <li><img src="img/proprietary/safari.png" alt="Safari" class="proprietary" /><br />x</li>
+          </ul>
+        </td>
+
+        <!-- Browser:Free alternative -->
+        <td>
+          <!-- Firefox -->
+          <div class="media emph-Block">
+            <div class="media-Object">
+              <a href="#!" class="pic-Rounded">
+                <img src="img/foss/firefox.png" alt="Firefox" class="floss" />
+              </a>
+            </div>
+            <div class="media-Text">
+              <h2 class="eps">Firefox</h2>
+              <p> Firefox is a well known browser available for the desktop as well as iOS.
+              </p>
+              <ul>
+                <li>Price: Free</li>
+                <li>Devices: iPhone, iPad</li>
+                <li>Min. iOS version: 10.3+ </li>
+                <li><a href="https://github.com/mozilla-mobile/firefox-ios" target="_blank">Source code</a></li>
+              </ul>
+              <hr>
+              <a href="https://itunes.apple.com/de/app/apple-store/id989804926?mt=8" target="_blank"><img src="img/appstore.png" alt="AppStore" class="download" /></a>
+            </div>
+          </div>
+        </td>
+
+        <!-- Browser:Free alternative -->
+        <td>
+          <!-- OnionBrowser -->
+          <div class="media emph-Block">
+            <div class="media-Object">
+              <a href="#!" class="pic-Rounded">
+                <img src="img/foss/onionbrowser.png" alt="Onion Browser" class="floss" />
+              </a>
+            </div>
+            <div class="media-Text">
+              <h2 class="eps">Onion Browser</h2>
+              <p> Onion Browser routes everything through TOR
+              </p>
+              <ul>
+                <li>Price: Free</li>
+                <li>Devices: iPhone, iPad</li>
+                <li>Min. iOS version: 8.2+ </li>
+                <li><a href="https://github.com/mtigas/OnionBrowser" target="_blank">Source code</a></li>
+              </ul>
+              <hr>
+              <a href="https://itunes.apple.com/de/app/onion-browser/id519296448" target="_blank"><img src="img/appstore.png" alt="AppStore" class="download" /></a>
+            </div>
+          </div>
+        </td>
+
+        <!-- Browser:Notes -->
+        <td class="notes">
+          We are still missing some good alternatives here. Know any? Write an email or fork the project on GitHub and add your favourite FOSS media app via pull-request.
+        </td>
+      </tr>
+
+      <tr>
         <!-- Media:Proprietary -->
         <td class="proprietary">
           <ul class="proprietary">
-            <li><img src="x.png" alt="x" class="proprietary" /><br />x</li>
+            <li><img src="img/x.png" alt="x" class="proprietary" /><br />x</li>
           </ul>
         </td>
 
@@ -93,7 +154,7 @@ If you think an app is missing please write an email, a <a href="http://twitter.
           <div class="media emph-Block">
             <div class="media-Object">
               <a href="#!" class="pic-Rounded">
-                <img src="thatphoto.png" alt="ThatPhoto" class="floss" />
+                <img src="img/foss/thatphoto.png" alt="ThatPhoto" class="floss" />
               </a>
             </div>
             <div class="media-Text">
@@ -108,7 +169,7 @@ If you think an app is missing please write an email, a <a href="http://twitter.
                 <li><a href="https://github.com/Ink/ThatPhoto" target="_blank">Source code</a></li>
               </ul>
               <hr>
-              <a href="https://itunes.apple.com/app/id681031406" target="_blank"><img src="appstore.png" alt="AppStore" class="download" /></a>
+              <a href="https://itunes.apple.com/app/id681031406" target="_blank"><img src="img/appstore.png" alt="AppStore" class="download" /></a>
             </div>
           </div>
         </td>
@@ -126,19 +187,20 @@ If you think an app is missing please write an email, a <a href="http://twitter.
         <a href="index.html">Home</a> - <a href="about.html">About</a> - <a href="support.html">Support</a>
       </p>
       <p>
-        <a href="https://www.facebook.com/pages/ibreakinfo/1402984389948095" target="_blank">
-    <img src="facebook.png" alt="facebook" />
+    <a href="https://facebook.com/ibreakinfo" target="_blank">
+      <i class="fa fa-facebook"></i>
     </a>
-    <a href="https://twitter.com/ibreakinfo" target="_blank">
-    <img src="twitter.png" alt="twitter" />
+    <a href="https://twitter.com/ibreak" target="_blank">
+      <i class="fa fa-twitter"></i>
     </a>
     <a href="https://github.com/repat/ibreak" target="_blank">
-    <img src="github.png" alt="GitHub" />
+      <i class="fa fa-github"></i>
     </a>
-      </p>
+  </p>
       <p>
-        CC-BY-SA 2013 by <a href="http://lutic.org/">LumenTeun</a> and <a href="http://repat.de">repat</a> - hosted on neocities.org - Last update: 03 January 2013, 03:49. <br />
-        Logos and images are trademarked by their respective companies.
+        CC-BY-SA 2013-2017 by <a href="http://ahst.ro">LumenTeun</a> and <a href="https://repat.de">repat</a> - hosted on GitHub Pages - Last update: 16 December 2017, 03:49. <br />
+        Logos and images are trademarked by their respective companies. <br />
+        <a href="sitemap.html">Sitemap</a>
       </p>
     </footer>
   </body>
