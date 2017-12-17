@@ -13,3 +13,7 @@
 * Website: https://owncloud.com/
 * Sourcecode: https://github.com/owncloud/news-iOS-App
 * Note: is this the app to the sourcecode?
+
+## Notes
+### Joplin
+https://opensource.com/article/17/12/joplin-open-source-evernote-alternative
